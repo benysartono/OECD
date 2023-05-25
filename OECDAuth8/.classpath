@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Installer/nimbus-jose-jwt-2.13.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Installer/json-smart-2.4.8.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Installer/org.osgi.foundation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Installer/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Installer/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Installer/asm-1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
